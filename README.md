@@ -79,7 +79,8 @@ MIT License.
 
 ## 📧 Contact
 
-For questions or contributions: open an issue or submit a pull request.
+For questions or contributions: open an issue or submit a pull request. 
+fatihtopbasoglu@gmail.com
 
 ---
 
@@ -161,6 +162,7 @@ MIT Lisansı.
 
 ## 📧 İletişim
 
-Sorular ve katkılar için: Issue açabilir veya pull request gönderebilirsiniz.
+Sorular ve katkılar için: Issue açabilir veya pull request gönderebilirsiniz. 
+fatihtopbasoglu@gmail.com
 
 ---
