@@ -53,8 +53,8 @@ Since these blood test reports follow a **standard format approved by the Turkis
 
 ## 📂 Example Files
 
-- [🩸 Kan Tahlil Sonucu 1.pdf](./Kan Tahlil Sonucu 1.pdf)
-- [🩸 Kan Tahlil Sonucu 2.pdf](./Kan Tahlil Sonucu 2.pdf)
+- [🩸 Kan Tahlil Sonucu 1.pdf](https://github.com/FatihhTopbasoglu/Blood-Test-Analysis-and-Visualization/blob/main/Tahlil%20Sonucu%201.pdf)
+- [🩸 Kan Tahlil Sonucu 2.pdf](https://github.com/FatihhTopbasoglu/Blood-Test-Analysis-and-Visualization/blob/main/Tahlil%20Sonucu%202.pdf)
 
 ## 🚀 How to Run
 
@@ -135,8 +135,8 @@ Bu kan tahlili raporları, **T.C. Sağlık Bakanlığı tarafından onaylı stan
 
 ## 📂 Örnek Dosyalar
 
-- [🩸 Kan Tahlil Sonucu 1.pdf](./Kan Tahlil Sonucu 1.pdf)
-- [🩸 Kan Tahlil Sonucu 2.pdf](./Kan Tahlil Sonucu 2.pdf)
+- [🩸 Kan Tahlil Sonucu 1.pdf](https://github.com/FatihhTopbasoglu/Blood-Test-Analysis-and-Visualization/blob/main/Tahlil%20Sonucu%201.pdf)
+- [🩸 Kan Tahlil Sonucu 2.pdf](https://github.com/FatihhTopbasoglu/Blood-Test-Analysis-and-Visualization/blob/main/Tahlil%20Sonucu%202.pdf)
 
 ## 🚀 Nasıl Çalıştırılır?
 
